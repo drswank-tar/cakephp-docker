@@ -1,4 +1,4 @@
-SHELL 			:= /bin/bash # set shell based on host os, use /bin/zsh for mac
+SHELL 			:= /bin/zsh #/bin/bash # set shell based on host os, use /bin/zsh for mac
 .DEFAULT_GOAL   := help
 
 #
